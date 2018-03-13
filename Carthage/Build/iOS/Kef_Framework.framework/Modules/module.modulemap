@@ -1,0 +1,11 @@
+framework module Kef_Framework {
+  umbrella header "Kef_Framework.h"
+
+  export *
+  module * { export * }
+}
+
+module Kef_Framework.Swift {
+    header "Kef_Framework-Swift.h"
+    requires objc
+}

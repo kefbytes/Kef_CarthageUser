@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.1",
+  "iOS" : [
+    {
+      "name" : "Kef_Framework",
+      "hash" : "0369f8814f1c60490fc01ae42a53d80cd598f2b7eda2324bf981e522cd81cd8c"
+    }
+  ]
+}
